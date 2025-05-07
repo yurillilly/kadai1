@@ -1,9 +1,29 @@
-img{/* Layout Properties */
-    top: 0px;
+body{
+   top: 0px; 
+   left: 0px;
+   width: 1280px;
+   height: 1537;
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+   opacity: 1;
+
+ img{/* Layout Properties */
+    top: 60px;
     left: 0px;
     width: 1280px;
-    height: 1537px;
+    height: 600px;
     /* UI Properties */
-    background: #FFFFFF 0% 0% no-repeat padding-box;
+    background:  transparent url('img/mainvisual.jpeg') 0% 0% no-repeat padding-box;
     opacity: 1;
+ }
+
+ img{/* Layout Properties */
+    top: 858px;
+    left: 374px;
+    width: 100px;
+    height: 100px;
+    /* UI Properties */
+    background: transparent url('img/iconvisual.jpeg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+ }
+ 
 }
